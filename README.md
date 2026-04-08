@@ -4,7 +4,7 @@ An interactive earnings calendar tracking the biggest public companies reporting
 
 ## Live Demo
 
-[View the live site](https://yourusername.github.io/earnings-calendar)
+[View the live site]((https://ih19.github.io/Q1-2026-Earnings-Calender/))
 
 ## Features
 
