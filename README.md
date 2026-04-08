@@ -4,7 +4,7 @@ An interactive earnings calendar tracking the biggest public companies reporting
 
 ## Live Demo
 
-[View the live site]((https://ih19.github.io/Q1-2026-Earnings-Calender/))
+[View the live site](https://ih19.github.io/Q1-2026-Earnings-Calender/)
 
 ## Features
 
@@ -53,8 +53,8 @@ An interactive earnings calendar tracking the biggest public companies reporting
 Clone the repo and open `index.html` in any browser — no build step or server required.
 
 ```bash
-git clone https://github.com/yourusername/earnings-calendar.git
-cd earnings-calendar
+git clone https://github.com/ih19/Q1-2026-Earnings-Calender.git
+cd Q1-2026-Earnings-Calender
 open index.html
 ```
 
@@ -65,7 +65,7 @@ Hosted via GitHub Pages. To deploy your own fork:
 1. Fork or clone this repo
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)`
-4. Your site will be live at `https://yourusername.github.io/earnings-calendar`
+4. Your site will be live at `https://ih19.github.io/Q1-2026-Earnings-Calender/`
 
 ## Data Sources
 
@@ -73,4 +73,4 @@ Estimates sourced from analyst consensus (FactSet, Visible Alpha, TradingView, B
 
 ## Author
 
-**Ihor Holubets** — Data Science, Saint Joseph's University
+**Ihor Holubets** 
